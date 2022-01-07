@@ -9,6 +9,8 @@ Sequence Tagging Modeli kullanarak bir cümledeki "ki" nin bağlaç mı yoksa ek
 Label Sentence: O O E O O O O O O O
 
 Sonra Modelimizi eğitiyoruz
+
+
 SONUÇLAR:
 
 Score: 1855 in 2000 sentences
