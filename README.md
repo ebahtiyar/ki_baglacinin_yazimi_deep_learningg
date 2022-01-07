@@ -6,6 +6,7 @@ Sequence Tagging Modeli kullanarak bir cümledeki "ki" nin bağlaç mı yoksa ek
 Öncelikle cümlelerimiz hatalı "ki"leri taglıyoruz.
 
 İnput Sentence: Toksöz ailesinin sahipliğinde ki Sağra çalışanlarının sendikası Genel İşten şikayetler aldık
+
 Label Sentence: O O E O O O O O O O
 
 Sonra Modelimizi eğitiyoruz
