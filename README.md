@@ -21,7 +21,3 @@ Prediction: herkesin kendi içerisinde büyük planları var tabii ki isterim
 
           E        0.98      0.93      0.96      2168
           O        0.95      0.93      0.94      3588
-
-   micro avg       0.96      0.93      0.95      5756
-   macro avg       0.97      0.93      0.95      5756
-weighted avg       0.97      0.93      0.95      5756
