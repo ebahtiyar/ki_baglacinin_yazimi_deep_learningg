@@ -14,6 +14,7 @@ Sonra Modelimizi eğitiyoruz
 SONUÇLAR:
 
 Score: 1855 in 2000 sentences
+
 Orginal: herkesin kendi içerisinde büyük planları var tabii ki isterim
 Wrong: herkesin kendi içerisinde büyük planları var tabiiki isterim
 Prediction: herkesin kendi içerisinde büyük planları var tabii ki isterim
